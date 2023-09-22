@@ -1,12 +1,8 @@
-<<<<<<< HEAD
-# phoenix_toast
-Flutter 企业界组件:toast
-=======
 <!--
  * @Author: lipeng 1162423147@qq.com
  * @Date: 2023-09-22 22:31:21
  * @LastEditors: lipeng 1162423147@qq.com
- * @LastEditTime: 2023-09-22 22:33:20
+ * @LastEditTime: 2023-09-22 22:39:06
  * @FilePath: /phoenix_toast/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -44,4 +40,4 @@ const like = 'sample';
 ## Additional information
 
 phoenix 将做为企业级基础组件:Toast,提供项目支持。
->>>>>>> 74507fd ([new] 新建)
+

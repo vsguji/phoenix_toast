@@ -26,7 +26,7 @@ class PhoenixDuration {
 }
 
 /// 通用的Toast组件
-class BrnToast {
+class PhoenixToast {
   /// Toast 距离顶部默认间距
   static const int _defaultTopOffset = 50;
 
